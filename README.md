@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jil! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Jil! Passionate Cybersecurity Analyst. I also like the Pentesting/Hacking side of Cybersecurity.</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
