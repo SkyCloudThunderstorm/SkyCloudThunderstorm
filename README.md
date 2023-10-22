@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jil! Passionate Cybersecurity Analyst. I also like the Pentesting/Hacking side of Cybersecurity.</h1>
+<h1>Hi, I'm Jil! Passionate Cybersecurity Analyst. I also like Pentesting/Hacking side of Cybersecurity.</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
