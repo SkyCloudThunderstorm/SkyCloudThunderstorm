@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](<----->)
   - [osTicket: Post-Installation Configuration](<----->)
   - [osTicket: Ticket Lifecycle Examples](<----->)
-<h2>Microsoft Azure:</h2>
+- <b>Mycrosoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](<----->)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](<----->)
 
