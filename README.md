@@ -1,5 +1,15 @@
 <h1>Hi, I'm Jil! Passionate Cybersecurity Analyst. I also like Pentesting/Hacking side of Cybersecurity.</h1>
 
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](<----->)
+  - [osTicket: Post-Installation Configuration](<----->)
+  - [osTicket: Ticket Lifecycle Examples](<----->)
+<h2>Microsoft Azure:</h2>
+  - [Configuring On-premises Active Directory within Azure VMs](<----->)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](<----->)
+
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
